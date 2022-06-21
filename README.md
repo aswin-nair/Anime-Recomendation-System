@@ -8,7 +8,6 @@
 
 This data set contains information on user preference data from 73,516 users on 12,294 anime. Each user is able to add anime to their completed list and give it a rating and this data set is a compilation of those ratings. The data was scraped thanks to [myanimelist.net](https://myanimelist.net) API.
 
-![](https://i.pinimg.com/originals/a0/ee/ab/a0eeabadf50400a7ebd09ca29efc97db.gif)
 
 # Data Id 📋
 
