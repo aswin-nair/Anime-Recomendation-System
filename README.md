@@ -4,7 +4,7 @@
     
 <h2 style='text-align:center;font-family:Comic Sans MS;font-size:30px;background-color:lightseagreen;border:30px;color:white'>table of contents<h2>
 
-    # Introduction
+# Introduction
 
 This data set contains information on user preference data from 73,516 users on 12,294 anime. Each user is able to add anime to their completed list and give it a rating and this data set is a compilation of those ratings. The data was scraped thanks to [myanimelist.net](https://myanimelist.net) API.
 
@@ -42,5 +42,4 @@ This dataset is named **rating**. The dataset contains a set of **7,813,737 reco
 ### Aim of the Notebook:
 Building a better anime recommendation system based only on similiar anime. 
 
-![](https://miro.medium.com/max/1080/1*nq3tr7RFPqyoij72F8dnAw.gif)
                                                 
